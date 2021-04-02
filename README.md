@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @piyush-sahu-123
+- 👋 Hi, I’m @piyush-sahu-123, Piyush Sahu
 - 👀 I’m interested in Data Structure and Algorithms and Web Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, email: rajapiyush123@gmail.com, linkedin:https://www.linkedin.com/in/piyushsahu123/
 
 <!---
